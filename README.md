@@ -11,4 +11,4 @@ To get started with any of the projects, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/reactjs-course.git
+   git clone https://github.com/angelornellab/reactjs-course.git
